@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lyra (Yujung Lee)
 - 👀 I’m interested in Natural Language Processing, Database Systems, and Computational Biology.
-- 🌱 I’m currently learning how Chat-GPT works (aka NLP), software design, and nkfl landscapes
+- 🌱 I’m currently learning LLMs, prompt-engineering, and classification models
 - 💞️ I’m looking to collaborate on AI/ML or computational biology projects.
 - 📫 How to reach me email leey2@rose-hulman.edu
 
